@@ -15,6 +15,7 @@ import androidx.lifecycle.ViewModelProvider;
 import com.example.samplegittest.R;
 import com.example.samplegittest.databinding.FragmentGalleryBinding;
 
+//Changes for commit 3
 public class GalleryFragment extends Fragment {
 
     private GalleryViewModel galleryViewModel;
