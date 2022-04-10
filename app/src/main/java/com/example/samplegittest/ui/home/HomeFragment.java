@@ -15,6 +15,7 @@ import androidx.lifecycle.ViewModelProvider;
 import com.example.samplegittest.R;
 import com.example.samplegittest.databinding.FragmentHomeBinding;
 
+//Change for commit 2
 public class HomeFragment extends Fragment {
 
     private HomeViewModel homeViewModel;
